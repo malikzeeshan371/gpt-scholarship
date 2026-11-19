@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Chinese Government Scholarship for Pakistani Students",
+    "country": "China",
+    "course_levels": ["Bachelors", "Masters", "PhD"],
+    "provider": "Government of Pakistan / HEC",
+    "description": "Fully funded scholarship for Pakistani students to study degree programmes in China.",
+    "eligibility": "Pakistani/AJK nationality, valid academic records, and programme-specific requirements.",
+    "deadline": "Announced annually",
+    "application_url": "https://studyinchina.csc.edu.cn/",
+    "source_url": "https://www.hec.gov.pk/"
+  },
+  {
+    "title": "DAAD Scholarship Programme",
+    "country": "Germany",
+    "course_levels": ["Masters", "PhD"],
+    "provider": "Government of Pakistan / HEC",
+    "description": "Support for Pakistani students pursuing postgraduate studies in Germany.",
+    "eligibility": "Relevant bachelor's or master's degree, academic merit, and German or English language proficiency.",
+    "deadline": "Programme dependent",
+    "application_url": "https://www.daad.de/",
+    "source_url": "https://www.hec.gov.pk/"
+  },
+  {
+    "title": "Turkiye Scholarships",
+    "country": "Turkey",
+    "course_levels": ["Bachelors", "Masters", "PhD"],
+    "provider": "Government of Pakistan / HEC",
+    "description": "Government-funded study award for international students studying in Turkey.",
+    "eligibility": "Academic excellence and citizenship eligibility; requirements vary by degree level.",
+    "deadline": "Usually January to February",
+    "application_url": "https://turkiyeburslari.gov.tr/",
+    "source_url": "https://www.hec.gov.pk/"
+  },
+  {
+    "title": "MEXT Scholarship to Japan",
+    "country": "Japan",
+    "course_levels": ["Bachelors", "Masters", "PhD"],
+    "provider": "Government of Pakistan / HEC",
+    "description": "Japanese Government scholarship for undergraduate and postgraduate study.",
+    "eligibility": "Nationality, age, academic qualification, and medical criteria set by MEXT.",
+    "deadline": "Announced by embassy or HEC",
+    "application_url": "https://www.studyinjapan.jp/en/",
+    "source_url": "https://www.hec.gov.pk/"
+  },
+  {
+    "title": "Commonwealth Scholarship",
+    "country": "United Kingdom",
+    "course_levels": ["Masters", "PhD"],
+    "provider": "Government of Pakistan / HEC",
+    "description": "UK Commonwealth scholarships for eligible developing-country students.",
+    "eligibility": "Pakistani citizenship, required academic credentials, and selected study eligibility.",
+    "deadline": "Annual, programme dependent",
+    "application_url": "https://cscuk.fcdo.gov.uk/",
+    "source_url": "https://www.hec.gov.pk/"
+  },
+  {
+    "title": "Australia Awards Scholarship",
+    "country": "Australia",
+    "course_levels": ["Masters", "PhD"],
+    "provider": "Government of Pakistan / HEC",
+    "description": "Australian Government-funded development scholarships for postgraduate study.",
+    "eligibility": "Relevant degree, work experience, and development-sector contribution.",
+    "deadline": "Annual application round",
+    "application_url": "https://www.dfat.gov.au/people-to-people/australia-awards/",
+    "source_url": "https://www.hec.gov.pk/"
+  },
+  {
+    "title": "Stipendium Hungaricum",
+    "country": "Hungary",
+    "course_levels": ["Bachelors", "Masters", "PhD"],
+    "provider": "Government of Pakistan / HEC",
+    "description": "Hungarian Government scholarship covering full-degree study programmes.",
+    "eligibility": "Academic merit and programme-specific admission requirements.",
+    "deadline": "Annual",
+    "application_url": "https://stipendiumhungaricum.hu/",
+    "source_url": "https://www.hec.gov.pk/"
+  },
+  {
+    "title": "Korean Government Scholarship",
+    "country": "South Korea",
+    "course_levels": ["Bachelors", "Masters", "PhD"],
+    "provider": "Government of Pakistan / HEC",
+    "description": "Global Korean Government award for undergraduate and graduate study.",
+    "eligibility": "Pakistani/AJK nationality and academic, health, and language requirements.",
+    "deadline": "Annual",
+    "application_url": "https://www.studyinkorea.go.kr/",
+    "source_url": "https://www.hec.gov.pk/"
+  },
+  {
+    "title": "French Government Eiffel Excellence Scholarship",
+    "country": "France",
+    "course_levels": ["Masters", "PhD"],
+    "provider": "Government of Pakistan / HEC",
+    "description": "French Government scholarship for international postgraduate talent.",
+    "eligibility": "Applications are typically submitted through a French higher-education institution.",
+    "deadline": "Institution dependent",
+    "application_url": "https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence",
+    "source_url": "https://www.hec.gov.pk/"
+  },
+  {
+    "title": "Fulbright Foreign Student Scholarship",
+    "country": "USA",
+    "course_levels": ["Masters", "PhD"],
+    "provider": "Government of Pakistan / HEC",
+    "description": "US Government-supported graduate study opportunity for Pakistani students.",
+    "eligibility": "Pakistani nationality, academic merit, leadership potential, and testing requirements.",
+    "deadline": "Annual",
+    "application_url": "https://pk.usembassy.gov/education-culture/fulbright-scholarships/",
+    "source_url": "https://www.hec.gov.pk/"
+  }
+]
